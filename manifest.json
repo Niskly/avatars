@@ -1,0 +1,3424 @@
+{
+  "decorations": [
+    {
+      "name": "Alt Raccoon",
+      "year": "2026",
+      "file": "2026/alt-raccoon.png"
+    },
+    {
+      "name": "Snow Leopard",
+      "year": "2026",
+      "file": "2026/snow-leopard.png"
+    },
+    {
+      "name": "Ribbon Kitten",
+      "year": "2026",
+      "file": "2026/ribbon-kitten.png"
+    },
+    {
+      "name": "Bunny Babe",
+      "year": "2026",
+      "file": "2026/bunny-babe.png"
+    },
+    {
+      "name": "Lunar Wolf",
+      "year": "2026",
+      "file": "2026/lunar-wolf.png"
+    },
+    {
+      "name": "Fox (Ears)",
+      "year": "2026",
+      "file": "2026/fox-ears.png"
+    },
+    {
+      "name": "Fox",
+      "year": "2026",
+      "file": "2026/fox.png"
+    },
+    {
+      "name": "Boss Bear (Polar)",
+      "year": "2026",
+      "file": "2026/boss-bear-polar.png"
+    },
+    {
+      "name": "Boss Bear (Brown)",
+      "year": "2026",
+      "file": "2026/boss-bear-brown.png"
+    },
+    {
+      "name": "Boss Bear (Black)",
+      "year": "2026",
+      "file": "2026/boss-bear-black.png"
+    },
+    {
+      "name": "Tiger",
+      "year": "2026",
+      "file": "2026/tiger.png"
+    },
+    {
+      "name": "Fox Guardian",
+      "year": "2026",
+      "file": "2026/fox-guardian.png"
+    },
+    {
+      "name": "Red Panda",
+      "year": "2026",
+      "file": "2026/red-panda.png"
+    },
+    {
+      "name": "Leafy Loaf",
+      "year": "2026",
+      "file": "2026/leafy-loaf.png"
+    },
+    {
+      "name": "Gardener's Friend",
+      "year": "2026",
+      "file": "2026/gardeners-friend.png"
+    },
+    {
+      "name": "Japanese Maple",
+      "year": "2026",
+      "file": "2026/japanese-maple.png"
+    },
+    {
+      "name": "Mermaid Mirage Bundle",
+      "year": "2026",
+      "file": "2026/mermaid-mirage-bundle.png"
+    },
+    {
+      "name": "Dolphin Daydreams Bundle",
+      "year": "2026",
+      "file": "2026/dolphin-daydreams-bundle.png"
+    },
+    {
+      "name": "Rainbow Pearls",
+      "year": "2026",
+      "file": "2026/rainbow-pearls.png"
+    },
+    {
+      "name": "La Llorona Bundle",
+      "year": "2026",
+      "file": "2026/la-llorona-bundle.png"
+    },
+    {
+      "name": "Ghost Moth",
+      "year": "2026",
+      "file": "2026/ghost-moth.png"
+    },
+    {
+      "name": "Moonflowers",
+      "year": "2026",
+      "file": "2026/moonflowers.png"
+    },
+    {
+      "name": "Demon Horns",
+      "year": "2026",
+      "file": "2026/demon-horns.png"
+    },
+    {
+      "name": "Wolf Moon Bundle",
+      "year": "2026",
+      "file": "2026/wolf-moon-bundle.png"
+    },
+    {
+      "name": "Butterfly Waltz Bundle",
+      "year": "2026",
+      "file": "2026/butterfly-waltz-bundle.png"
+    },
+    {
+      "name": "Rose Filigree",
+      "year": "2026",
+      "file": "2026/rose-filigree.png"
+    },
+    {
+      "name": "Fangs and Death Bundle",
+      "year": "2026",
+      "file": "2026/fangs-and-death-bundle.png"
+    },
+    {
+      "name": "Longlegs Bundle",
+      "year": "2026",
+      "file": "2026/longlegs-bundle.png"
+    },
+    {
+      "name": "Motyxia",
+      "year": "2026",
+      "file": "2026/motyxia.png"
+    },
+    {
+      "name": "Bug Reveal",
+      "year": "2026",
+      "file": "2026/bug-reveal.png"
+    },
+    {
+      "name": "Cerberus Bundle",
+      "year": "2026",
+      "file": "2026/cerberus-bundle.png"
+    },
+    {
+      "name": "Styx Bundle",
+      "year": "2026",
+      "file": "2026/styx-bundle.png"
+    },
+    {
+      "name": "Lord of the Dead (Blue)",
+      "year": "2026",
+      "file": "2026/lord-of-the-dead-blue.png"
+    },
+    {
+      "name": "Lord of the Dead (Red)",
+      "year": "2026",
+      "file": "2026/lord-of-the-dead-red.png"
+    },
+    {
+      "name": "Liquid Light Bundle",
+      "year": "2026",
+      "file": "2026/liquid-light-bundle.png"
+    },
+    {
+      "name": "Solar Pulse",
+      "year": "2026",
+      "file": "2026/solar-pulse.png"
+    },
+    {
+      "name": "Crystal Crown",
+      "year": "2026",
+      "file": "2026/crystal-crown.png"
+    },
+    {
+      "name": "Astrolabe (Silver)",
+      "year": "2026",
+      "file": "2026/astrolabe-silver.png"
+    },
+    {
+      "name": "Dolphin Life",
+      "year": "2026",
+      "file": "2026/dolphin-life.png"
+    },
+    {
+      "name": "Shark Bundle",
+      "year": "2026",
+      "file": "2026/shark-bundle.png"
+    },
+    {
+      "name": "Best Pals Forever Bundle",
+      "year": "2024",
+      "file": "2024/best-pals-forever-bundle.png"
+    },
+    {
+      "name": "Depresso",
+      "year": "2024",
+      "file": "2024/depresso.png"
+    },
+    {
+      "name": "Lamball",
+      "year": "2024",
+      "file": "2024/lamball.png"
+    },
+    {
+      "name": "Cattiva",
+      "year": "2024",
+      "file": "2024/cattiva.png"
+    },
+    {
+      "name": "Pal Sphere",
+      "year": "2024",
+      "file": "2024/pal-sphere.png"
+    },
+    {
+      "name": "Selyne",
+      "year": "2024",
+      "file": "2024/selyne.png"
+    },
+    {
+      "name": "Snack Time Bundle",
+      "year": "2026",
+      "file": "2026/snack-time-bundle.png"
+    },
+    {
+      "name": "Stalkers Bundle",
+      "year": "2026",
+      "file": "2026/stalkers-bundle.png"
+    },
+    {
+      "name": "Trapped Souls Bundle",
+      "year": "2026",
+      "file": "2026/trapped-souls-bundle.png"
+    },
+    {
+      "name": "Cycling Lights Bundle",
+      "year": "2026",
+      "file": "2026/cycling-lights-bundle.png"
+    },
+    {
+      "name": "Ambient Ripples Bundle",
+      "year": "2026",
+      "file": "2026/ambient-ripples-bundle.png"
+    },
+    {
+      "name": "Cycling Lights (Vaporwave)",
+      "year": "2026",
+      "file": "2026/cycling-lights-vaporwave.png"
+    },
+    {
+      "name": "Cycling Lights (Iridescent)",
+      "year": "2026",
+      "file": "2026/cycling-lights-iridescent.png"
+    },
+    {
+      "name": "Ambient Ripples (Lavender)",
+      "year": "2026",
+      "file": "2026/ambient-ripples-lavender.png"
+    },
+    {
+      "name": "Ambient Ripples (Bubblegum)",
+      "year": "2026",
+      "file": "2026/ambient-ripples-bubblegum.png"
+    },
+    {
+      "name": "Ambient Ripples (Golden)",
+      "year": "2026",
+      "file": "2026/ambient-ripples-golden.png"
+    },
+    {
+      "name": "Woody Bundle",
+      "year": "2026",
+      "file": "2026/woody-bundle.png"
+    },
+    {
+      "name": "Buzz Lightyear Bundle",
+      "year": "2026",
+      "file": "2026/buzz-lightyear-bundle.png"
+    },
+    {
+      "name": "Andy's Room Clouds Bundle",
+      "year": "2026",
+      "file": "2026/andys-room-clouds-bundle.png"
+    },
+    {
+      "name": "Jessie Bundle",
+      "year": "2026",
+      "file": "2026/jessie-bundle.png"
+    },
+    {
+      "name": "Woody (Dad Bod)",
+      "year": "2026",
+      "file": "2026/woody-dad-bod.png"
+    },
+    {
+      "name": "The Clawww",
+      "year": "2026",
+      "file": "2026/the-clawww.png"
+    },
+    {
+      "name": "Bo Peep",
+      "year": "2026",
+      "file": "2026/bo-peep.png"
+    },
+    {
+      "name": "Rex",
+      "year": "2026",
+      "file": "2026/rex.png"
+    },
+    {
+      "name": "Match Day",
+      "year": "2026",
+      "file": "2026/match-day.png"
+    },
+    {
+      "name": "Penalty (Red Card)",
+      "year": "2026",
+      "file": "2026/penalty-red-card.png"
+    },
+    {
+      "name": "Penalty (Yellow Card)",
+      "year": "2026",
+      "file": "2026/penalty-yellow-card.png"
+    },
+    {
+      "name": "Elysian Tides Bundle",
+      "year": "2026",
+      "file": "2026/elysian-tides-bundle.png"
+    },
+    {
+      "name": "Falling Stars Bundle",
+      "year": "2026",
+      "file": "2026/falling-stars-bundle.png"
+    },
+    {
+      "name": "Midnight Mantas Bundle",
+      "year": "2026",
+      "file": "2026/midnight-mantas-bundle.png"
+    },
+    {
+      "name": "Spray Doodles Bundle",
+      "year": "2026",
+      "file": "2026/spray-doodles-bundle.png"
+    },
+    {
+      "name": "Mando Bundle",
+      "year": "2026",
+      "file": "2026/mando-bundle.png"
+    },
+    {
+      "name": "Grogu Bundle",
+      "year": "2026",
+      "file": "2026/grogu-bundle.png"
+    },
+    {
+      "name": "Starlight Bundle",
+      "year": "2026",
+      "file": "2026/starlight-bundle.png"
+    },
+    {
+      "name": "Cosmic Guardian Bundle",
+      "year": "2026",
+      "file": "2026/cosmic-guardian-bundle.png"
+    },
+    {
+      "name": "Heart's Reflection Bundle",
+      "year": "2026",
+      "file": "2026/hearts-reflection-bundle.png"
+    },
+    {
+      "name": "Enchanted Ribbon (Pink)",
+      "year": "2026",
+      "file": "2026/enchanted-ribbon-pink.png"
+    },
+    {
+      "name": "Enchanted Ribbon (Blue)",
+      "year": "2026",
+      "file": "2026/enchanted-ribbon-blue.png"
+    },
+    {
+      "name": "Enchanted Ribbon (Green)",
+      "year": "2026",
+      "file": "2026/enchanted-ribbon-green.png"
+    },
+    {
+      "name": "Enchanted Ribbon (Purple)",
+      "year": "2026",
+      "file": "2026/enchanted-ribbon-purple.png"
+    },
+    {
+      "name": "Enchanted Ribbon (Red)",
+      "year": "2026",
+      "file": "2026/enchanted-ribbon-red.png"
+    },
+    {
+      "name": "Fairy Wings",
+      "year": "2026",
+      "file": "2026/fairy-wings.png"
+    },
+    {
+      "name": "Guardian Wings",
+      "year": "2026",
+      "file": "2026/guardian-wings.png"
+    },
+    {
+      "name": "Nyan Bundle",
+      "year": "2026",
+      "file": "2026/nyan-bundle.png"
+    },
+    {
+      "name": "Cherry Surprise Bundle",
+      "year": "2026",
+      "file": "2026/cherry-surprise-bundle.png"
+    },
+    {
+      "name": "Bananabelle Bundle",
+      "year": "2026",
+      "file": "2026/bananabelle-bundle.png"
+    },
+    {
+      "name": "Berry Cute Bundle",
+      "year": "2026",
+      "file": "2026/berry-cute-bundle.png"
+    },
+    {
+      "name": "Clementina",
+      "year": "2026",
+      "file": "2026/clementina.png"
+    },
+    {
+      "name": "Lemonette",
+      "year": "2026",
+      "file": "2026/lemonette.png"
+    },
+    {
+      "name": "Strawbelline",
+      "year": "2026",
+      "file": "2026/strawbelline.png"
+    },
+    {
+      "name": "Melonie",
+      "year": "2026",
+      "file": "2026/melonie.png"
+    },
+    {
+      "name": "Cloud Nine Bundle",
+      "year": "2026",
+      "file": "2026/cloud-nine-bundle.png"
+    },
+    {
+      "name": "Star Struck Bundle",
+      "year": "2026",
+      "file": "2026/star-struck-bundle.png"
+    },
+    {
+      "name": "Slow Burn Bundle",
+      "year": "2026",
+      "file": "2026/slow-burn-bundle.png"
+    },
+    {
+      "name": "Story Time Bundle",
+      "year": "2026",
+      "file": "2026/story-time-bundle.png"
+    },
+    {
+      "name": "Busy Bee Bundle",
+      "year": "2026",
+      "file": "2026/busy-bee-bundle.png"
+    },
+    {
+      "name": "Glowies Bundle",
+      "year": "2026",
+      "file": "2026/glowies-bundle.png"
+    },
+    {
+      "name": "Lil' Inchy Bundle",
+      "year": "2026",
+      "file": "2026/lil-inchy-bundle.png"
+    },
+    {
+      "name": "Roly Poly Bundle",
+      "year": "2026",
+      "file": "2026/roly-poly-bundle.png"
+    },
+    {
+      "name": "Hello Kitty Bundle",
+      "year": "2026",
+      "file": "2026/hello-kitty-bundle.png"
+    },
+    {
+      "name": "Pompompurin Bundle",
+      "year": "2026",
+      "file": "2026/pompompurin-bundle.png"
+    },
+    {
+      "name": "Cinnamoroll Bundle",
+      "year": "2026",
+      "file": "2026/cinnamoroll-bundle.png"
+    },
+    {
+      "name": "Kuromi Bundle",
+      "year": "2026",
+      "file": "2026/kuromi-bundle.png"
+    },
+    {
+      "name": "My Melody Bundle",
+      "year": "2026",
+      "file": "2026/my-melody-bundle.png"
+    },
+    {
+      "name": "Pochacco Bundle",
+      "year": "2026",
+      "file": "2026/pochacco-bundle.png"
+    },
+    {
+      "name": "LittleTwinStars Bundle",
+      "year": "2026",
+      "file": "2026/littletwinstars-bundle.png"
+    },
+    {
+      "name": "Chococat Bundle",
+      "year": "2026",
+      "file": "2026/chococat-bundle.png"
+    },
+    {
+      "name": "Keroppi Bundle",
+      "year": "2026",
+      "file": "2026/keroppi-bundle.png"
+    },
+    {
+      "name": "Tuxedosam",
+      "year": "2026",
+      "file": "2026/tuxedosam.png"
+    },
+    {
+      "name": "K-Heart",
+      "year": "2026",
+      "file": "2026/k-heart.png"
+    },
+    {
+      "name": "K-Heart (Light)",
+      "year": "2026",
+      "file": "2026/k-heart-light.png"
+    },
+    {
+      "name": "K-Heart (Medium)",
+      "year": "2026",
+      "file": "2026/k-heart-medium.png"
+    },
+    {
+      "name": "K-Heart (Dark)",
+      "year": "2026",
+      "file": "2026/k-heart-dark.png"
+    },
+    {
+      "name": "Clappy Feet",
+      "year": "2026",
+      "file": "2026/clappy-feet.png"
+    },
+    {
+      "name": "Clappy Feet (Light)",
+      "year": "2026",
+      "file": "2026/clappy-feet-light.png"
+    },
+    {
+      "name": "Clappy Feet (Medium)",
+      "year": "2026",
+      "file": "2026/clappy-feet-medium.png"
+    },
+    {
+      "name": "Clappy Feet (Dark)",
+      "year": "2026",
+      "file": "2026/clappy-feet-dark.png"
+    },
+    {
+      "name": "Umm, Actually",
+      "year": "2026",
+      "file": "2026/umm-actually.png"
+    },
+    {
+      "name": "Umm, Actually (Light)",
+      "year": "2026",
+      "file": "2026/umm-actually-light.png"
+    },
+    {
+      "name": "Umm, Actually (Medium)",
+      "year": "2026",
+      "file": "2026/umm-actually-medium.png"
+    },
+    {
+      "name": "Umm, Actually (Dark)",
+      "year": "2026",
+      "file": "2026/umm-actually-dark.png"
+    },
+    {
+      "name": "Keyboard Warrior",
+      "year": "2026",
+      "file": "2026/keyboard-warrior.png"
+    },
+    {
+      "name": "Keyboard Warrior (Light)",
+      "year": "2026",
+      "file": "2026/keyboard-warrior-light.png"
+    },
+    {
+      "name": "Keyboard Warrior (Medium)",
+      "year": "2026",
+      "file": "2026/keyboard-warrior-medium.png"
+    },
+    {
+      "name": "Keyboard Warrior (Dark)",
+      "year": "2026",
+      "file": "2026/keyboard-warrior-dark.png"
+    },
+    {
+      "name": "Slay",
+      "year": "2026",
+      "file": "2026/slay.png"
+    },
+    {
+      "name": "Slay (Light)",
+      "year": "2026",
+      "file": "2026/slay-light.png"
+    },
+    {
+      "name": "Slay (Medium)",
+      "year": "2026",
+      "file": "2026/slay-medium.png"
+    },
+    {
+      "name": "Slay (Dark)",
+      "year": "2026",
+      "file": "2026/slay-dark.png"
+    },
+    {
+      "name": "Cruisin' for a Bruisin'",
+      "year": "2026",
+      "file": "2026/cruisin-for-a-bruisin.png"
+    },
+    {
+      "name": "Cruisin' for a Bruisin' (Light)",
+      "year": "2026",
+      "file": "2026/cruisin-for-a-bruisin-light.png"
+    },
+    {
+      "name": "Cruisin' for a Bruisin' (Medium)",
+      "year": "2026",
+      "file": "2026/cruisin-for-a-bruisin-medium.png"
+    },
+    {
+      "name": "Cruisin' for a Bruisin' (Dark)",
+      "year": "2026",
+      "file": "2026/cruisin-for-a-bruisin-dark.png"
+    },
+    {
+      "name": "Seeing Stars",
+      "year": "2026",
+      "file": "2026/seeing-stars.png"
+    },
+    {
+      "name": "Seeing Stars (Blue)",
+      "year": "2026",
+      "file": "2026/seeing-stars-blue.png"
+    },
+    {
+      "name": "Seeing Stars (Pink)",
+      "year": "2026",
+      "file": "2026/seeing-stars-pink.png"
+    },
+    {
+      "name": "Food for Thought",
+      "year": "2026",
+      "file": "2026/food-for-thought.png"
+    },
+    {
+      "name": "Nani?!",
+      "year": "2026",
+      "file": "2026/nani.png"
+    },
+    {
+      "name": "Venom Bundle",
+      "year": "2026",
+      "file": "2026/venom-bundle.png"
+    },
+    {
+      "name": "Spider-Man Bundle",
+      "year": "2026",
+      "file": "2026/spider-man-bundle.png"
+    },
+    {
+      "name": "Spider-Man (No Logo)",
+      "year": "2026",
+      "file": "2026/spider-man-no-logo.png"
+    },
+    {
+      "name": "Venom (No Logo)",
+      "year": "2026",
+      "file": "2026/venom-no-logo.png"
+    },
+    {
+      "name": "Enchanted Cosmos Bundle",
+      "year": "2026",
+      "file": "2026/enchanted-cosmos-bundle.png"
+    },
+    {
+      "name": "Dream Hop Bundle",
+      "year": "2026",
+      "file": "2026/dream-hop-bundle.png"
+    },
+    {
+      "name": "Lily of the Valley",
+      "year": "2026",
+      "file": "2026/lily-of-the-valley.png"
+    },
+    {
+      "name": "Butterfly Burst",
+      "year": "2026",
+      "file": "2026/butterfly-burst.png"
+    },
+    {
+      "name": "Dreamkeeper",
+      "year": "2026",
+      "file": "2026/dreamkeeper.png"
+    },
+    {
+      "name": "Lucky Bunny Bundle",
+      "year": "2026",
+      "file": "2026/lucky-bunny-bundle.png"
+    },
+    {
+      "name": "Mickey Ear Headband",
+      "year": "2026",
+      "file": "2026/mickey-ear-headband.png"
+    },
+    {
+      "name": "Minnie Ear Headband",
+      "year": "2026",
+      "file": "2026/minnie-ear-headband.png"
+    },
+    {
+      "name": "Donald Headband",
+      "year": "2026",
+      "file": "2026/donald-headband.png"
+    },
+    {
+      "name": "Daisy Headband",
+      "year": "2026",
+      "file": "2026/daisy-headband.png"
+    },
+    {
+      "name": "Goofy Ear Headband",
+      "year": "2026",
+      "file": "2026/goofy-ear-headband.png"
+    },
+    {
+      "name": "Pluto Hat",
+      "year": "2026",
+      "file": "2026/pluto-hat.png"
+    },
+    {
+      "name": "Neon Glow Bundle",
+      "year": "2026",
+      "file": "2026/neon-glow-bundle.png"
+    },
+    {
+      "name": "Drifting Glow Bundle",
+      "year": "2026",
+      "file": "2026/drifting-glow-bundle.png"
+    },
+    {
+      "name": "Electric Aura Bundle",
+      "year": "2026",
+      "file": "2026/electric-aura-bundle.png"
+    },
+    {
+      "name": "Neon Glow (Aquamarine)",
+      "year": "2026",
+      "file": "2026/neon-glow-aquamarine.png"
+    },
+    {
+      "name": "Neon Glow (Amethyst)",
+      "year": "2026",
+      "file": "2026/neon-glow-amethyst.png"
+    },
+    {
+      "name": "Neon Glow (Peridot)",
+      "year": "2026",
+      "file": "2026/neon-glow-peridot.png"
+    },
+    {
+      "name": "Neon Glow (Ruby)",
+      "year": "2026",
+      "file": "2026/neon-glow-ruby.png"
+    },
+    {
+      "name": "Neon Glow (Emerald)",
+      "year": "2026",
+      "file": "2026/neon-glow-emerald.png"
+    },
+    {
+      "name": "Neon Glow (Sapphire)",
+      "year": "2026",
+      "file": "2026/neon-glow-sapphire.png"
+    },
+    {
+      "name": "Drifting Glow (Sunset)",
+      "year": "2026",
+      "file": "2026/drifting-glow-sunset.png"
+    },
+    {
+      "name": "Drifting Glow (Radioactive)",
+      "year": "2026",
+      "file": "2026/drifting-glow-radioactive.png"
+    },
+    {
+      "name": "Electric Aura (Quartz)",
+      "year": "2026",
+      "file": "2026/electric-aura-quartz.png"
+    },
+    {
+      "name": "Electric Aura (Icy)",
+      "year": "2026",
+      "file": "2026/electric-aura-icy.png"
+    },
+    {
+      "name": "Sweetheart Bundle",
+      "year": "2026",
+      "file": "2026/sweetheart-bundle.png"
+    },
+    {
+      "name": "Love Stinks Bundle",
+      "year": "2026",
+      "file": "2026/love-stinks-bundle.png"
+    },
+    {
+      "name": "Heaven Sent Bundle",
+      "year": "2026",
+      "file": "2026/heaven-sent-bundle.png"
+    },
+    {
+      "name": "Raise Hell Bundle",
+      "year": "2026",
+      "file": "2026/raise-hell-bundle.png"
+    },
+    {
+      "name": "Hunny Bunnies Bundle",
+      "year": "2026",
+      "file": "2026/hunny-bunnies-bundle.png"
+    },
+    {
+      "name": "Lone Wolf Bundle",
+      "year": "2026",
+      "file": "2026/lone-wolf-bundle.png"
+    },
+    {
+      "name": "Heartbreaker",
+      "year": "2026",
+      "file": "2026/heartbreaker.png"
+    },
+    {
+      "name": "Cutesy Bow",
+      "year": "2026",
+      "file": "2026/cutesy-bow.png"
+    },
+    {
+      "name": "Year of the Horse Bundle",
+      "year": "2026",
+      "file": "2026/year-of-the-horse-bundle.png"
+    },
+    {
+      "name": "Lantern Festival Bundle",
+      "year": "2026",
+      "file": "2026/lantern-festival-bundle.png"
+    },
+    {
+      "name": "Floral Wreath",
+      "year": "2026",
+      "file": "2026/floral-wreath.png"
+    },
+    {
+      "name": "Lucky Fortune",
+      "year": "2026",
+      "file": "2026/lucky-fortune.png"
+    },
+    {
+      "name": "Game Day",
+      "year": "2026",
+      "file": "2026/game-day.png"
+    },
+    {
+      "name": "Go Sports!",
+      "year": "2026",
+      "file": "2026/go-sports.png"
+    },
+    {
+      "name": "Dark Roses Bundle (Nightshade)",
+      "year": "2026",
+      "file": "2026/dark-roses-bundle-nightshade.png"
+    },
+    {
+      "name": "Nevermore Bundle",
+      "year": "2026",
+      "file": "2026/nevermore-bundle.png"
+    },
+    {
+      "name": "Widow's Hat",
+      "year": "2026",
+      "file": "2026/widows-hat.png"
+    },
+    {
+      "name": "She-Bat",
+      "year": "2026",
+      "file": "2026/she-bat.png"
+    },
+    {
+      "name": "He-Bat",
+      "year": "2026",
+      "file": "2026/he-bat.png"
+    },
+    {
+      "name": "Amethyst Choker",
+      "year": "2026",
+      "file": "2026/amethyst-choker.png"
+    },
+    {
+      "name": "Victorian Lace",
+      "year": "2026",
+      "file": "2026/victorian-lace.png"
+    },
+    {
+      "name": "Dark Roses (Black)",
+      "year": "2026",
+      "file": "2026/dark-roses-black.png"
+    },
+    {
+      "name": "Dark Roses (White)",
+      "year": "2026",
+      "file": "2026/dark-roses-white.png"
+    },
+    {
+      "name": "Dark Roses (Blue)",
+      "year": "2026",
+      "file": "2026/dark-roses-blue.png"
+    },
+    {
+      "name": "Fallen Angel (Black)",
+      "year": "2026",
+      "file": "2026/fallen-angel-black.png"
+    },
+    {
+      "name": "Fallen Angel (White)",
+      "year": "2026",
+      "file": "2026/fallen-angel-white.png"
+    },
+    {
+      "name": "The Magician Bundle",
+      "year": "2026",
+      "file": "2026/the-magician-bundle.png"
+    },
+    {
+      "name": "Ominous Reading Bundle",
+      "year": "2026",
+      "file": "2026/ominous-reading-bundle.png"
+    },
+    {
+      "name": "Alchemical Light Bundle",
+      "year": "2026",
+      "file": "2026/alchemical-light-bundle.png"
+    },
+    {
+      "name": "Catastrophic Bundle",
+      "year": "2026",
+      "file": "2026/catastrophic-bundle.png"
+    },
+    {
+      "name": "The Fool",
+      "year": "2026",
+      "file": "2026/the-fool.png"
+    },
+    {
+      "name": "Temperance",
+      "year": "2026",
+      "file": "2026/temperance.png"
+    },
+    {
+      "name": "Dream Waves Bundle",
+      "year": "2026",
+      "file": "2026/dream-waves-bundle.png"
+    },
+    {
+      "name": "Moon Meadow Bundle",
+      "year": "2026",
+      "file": "2026/moon-meadow-bundle.png"
+    },
+    {
+      "name": "Star Drift Bundle",
+      "year": "2026",
+      "file": "2026/star-drift-bundle.png"
+    },
+    {
+      "name": "Cat Nap",
+      "year": "2026",
+      "file": "2026/cat-nap.png"
+    },
+    {
+      "name": "Panda Onesie",
+      "year": "2026",
+      "file": "2026/panda-onesie.png"
+    },
+    {
+      "name": "Sleepy Seal",
+      "year": "2026",
+      "file": "2026/sleepy-seal.png"
+    },
+    {
+      "name": "Cozy Blanket",
+      "year": "2026",
+      "file": "2026/cozy-blanket.png"
+    },
+    {
+      "name": "Dream Waves (Pink)",
+      "year": "2026",
+      "file": "2026/dream-waves-pink.png"
+    },
+    {
+      "name": "Dream Waves (Purple)",
+      "year": "2026",
+      "file": "2026/dream-waves-purple.png"
+    },
+    {
+      "name": "Dream Waves (Green)",
+      "year": "2026",
+      "file": "2026/dream-waves-green.png"
+    },
+    {
+      "name": "Dream Waves (White)",
+      "year": "2026",
+      "file": "2026/dream-waves-white.png"
+    },
+    {
+      "name": "Aries Bundle",
+      "year": "2025",
+      "file": "2025/aries-bundle.png"
+    },
+    {
+      "name": "Taurus Bundle",
+      "year": "2025",
+      "file": "2025/taurus-bundle.png"
+    },
+    {
+      "name": "Gemini Bundle",
+      "year": "2025",
+      "file": "2025/gemini-bundle.png"
+    },
+    {
+      "name": "Cancer Bundle",
+      "year": "2025",
+      "file": "2025/cancer-bundle.png"
+    },
+    {
+      "name": "Leo Bundle",
+      "year": "2025",
+      "file": "2025/leo-bundle.png"
+    },
+    {
+      "name": "Virgo Bundle",
+      "year": "2025",
+      "file": "2025/virgo-bundle.png"
+    },
+    {
+      "name": "Libra Bundle",
+      "year": "2025",
+      "file": "2025/libra-bundle.png"
+    },
+    {
+      "name": "Scorpio Bundle",
+      "year": "2025",
+      "file": "2025/scorpio-bundle.png"
+    },
+    {
+      "name": "Sagittarius Bundle",
+      "year": "2025",
+      "file": "2025/sagittarius-bundle.png"
+    },
+    {
+      "name": "Capricorn Bundle",
+      "year": "2025",
+      "file": "2025/capricorn-bundle.png"
+    },
+    {
+      "name": "Aquarius Bundle",
+      "year": "2025",
+      "file": "2025/aquarius-bundle.png"
+    },
+    {
+      "name": "Pisces Bundle",
+      "year": "2025",
+      "file": "2025/pisces-bundle.png"
+    },
+    {
+      "name": "Woodsprites Bundle",
+      "year": "2025",
+      "file": "2025/woodsprites-bundle.png"
+    },
+    {
+      "name": "Hallelujah Mountains Bundle",
+      "year": "2025",
+      "file": "2025/hallelujah-mountains-bundle.png"
+    },
+    {
+      "name": "Pandoran Seas",
+      "year": "2025",
+      "file": "2025/pandoran-seas.png"
+    },
+    {
+      "name": "Nightwraith",
+      "year": "2025",
+      "file": "2025/nightwraith.png"
+    },
+    {
+      "name": "Playful Ilu",
+      "year": "2025",
+      "file": "2025/playful-ilu.png"
+    },
+    {
+      "name": "The Wind Traders",
+      "year": "2025",
+      "file": "2025/the-wind-traders.png"
+    },
+    {
+      "name": "Twilight Amethyst Bundle",
+      "year": "2025",
+      "file": "2025/twilight-amethyst-bundle.png"
+    },
+    {
+      "name": "Twilight Bundle",
+      "year": "2025",
+      "file": "2025/twilight-bundle.png"
+    },
+    {
+      "name": "Constellations Bundle",
+      "year": "2025",
+      "file": "2025/constellations-bundle.png"
+    },
+    {
+      "name": "Nova Surge Bundle",
+      "year": "2025",
+      "file": "2025/nova-surge-bundle.png"
+    },
+    {
+      "name": "Moon (Blood)",
+      "year": "2025",
+      "file": "2025/moon-blood.png"
+    },
+    {
+      "name": "Moon (Dusk)",
+      "year": "2025",
+      "file": "2025/moon-dusk.png"
+    },
+    {
+      "name": "Moon (Amethyst)",
+      "year": "2025",
+      "file": "2025/moon-amethyst.png"
+    },
+    {
+      "name": "Moon (Blue)",
+      "year": "2025",
+      "file": "2025/moon-blue.png"
+    },
+    {
+      "name": "Planetary (Amethyst)",
+      "year": "2025",
+      "file": "2025/planetary-amethyst.png"
+    },
+    {
+      "name": "Planetary (Strawberry)",
+      "year": "2025",
+      "file": "2025/planetary-strawberry.png"
+    },
+    {
+      "name": "Planetary (Blueberry)",
+      "year": "2025",
+      "file": "2025/planetary-blueberry.png"
+    },
+    {
+      "name": "Comets (Blue)",
+      "year": "2025",
+      "file": "2025/comets-blue.png"
+    },
+    {
+      "name": "Comets (Amethyst)",
+      "year": "2025",
+      "file": "2025/comets-amethyst.png"
+    },
+    {
+      "name": "Comets (Rose)",
+      "year": "2025",
+      "file": "2025/comets-rose.png"
+    },
+    {
+      "name": "Comets (Dusk)",
+      "year": "2025",
+      "file": "2025/comets-dusk.png"
+    },
+    {
+      "name": "Solar Flare",
+      "year": "2025",
+      "file": "2025/solar-flare.png"
+    },
+    {
+      "name": "Twilight (Blue)",
+      "year": "2025",
+      "file": "2025/twilight-blue.png"
+    },
+    {
+      "name": "Twilight (Dusk)",
+      "year": "2025",
+      "file": "2025/twilight-dusk.png"
+    },
+    {
+      "name": "Twilight (Fuchsia)",
+      "year": "2025",
+      "file": "2025/twilight-fuchsia.png"
+    },
+    {
+      "name": "Constellations (Amethyst)",
+      "year": "2025",
+      "file": "2025/constellations-amethyst.png"
+    },
+    {
+      "name": "Constellations (Beryl)",
+      "year": "2025",
+      "file": "2025/constellations-beryl.png"
+    },
+    {
+      "name": "Constellations (Fuchsia)",
+      "year": "2025",
+      "file": "2025/constellations-fuchsia.png"
+    },
+    {
+      "name": "Light Cycles Bundle",
+      "year": "2025",
+      "file": "2025/light-cycles-bundle.png"
+    },
+    {
+      "name": "The Grid Bundle",
+      "year": "2025",
+      "file": "2025/the-grid-bundle.png"
+    },
+    {
+      "name": "Light Cycle Wheel",
+      "year": "2025",
+      "file": "2025/light-cycle-wheel.png"
+    },
+    {
+      "name": "Hologram Disc",
+      "year": "2025",
+      "file": "2025/hologram-disc.png"
+    },
+    {
+      "name": "Legacy Disc",
+      "year": "2025",
+      "file": "2025/legacy-disc.png"
+    },
+    {
+      "name": "Ares Disc",
+      "year": "2025",
+      "file": "2025/ares-disc.png"
+    },
+    {
+      "name": "Super Recognizer",
+      "year": "2025",
+      "file": "2025/super-recognizer.png"
+    },
+    {
+      "name": "Black Ops 7 Bundle",
+      "year": "2025",
+      "file": "2025/black-ops-7-bundle.png"
+    },
+    {
+      "name": "Hallucination Bundle",
+      "year": "2025",
+      "file": "2025/hallucination-bundle.png"
+    },
+    {
+      "name": "Cymbal Monkey",
+      "year": "2025",
+      "file": "2025/cymbal-monkey.png"
+    },
+    {
+      "name": "COD Squad Up",
+      "year": "2025",
+      "file": "2025/cod-squad-up.png"
+    },
+    {
+      "name": "Final Circle",
+      "year": "2025",
+      "file": "2025/final-circle.png"
+    },
+    {
+      "name": "Yuji Itadori Bundle",
+      "year": "2025",
+      "file": "2025/yuji-itadori-bundle.png"
+    },
+    {
+      "name": "Satoru Gojo Bundle",
+      "year": "2025",
+      "file": "2025/satoru-gojo-bundle.png"
+    },
+    {
+      "name": "Ryomen Sukuna Bundle",
+      "year": "2025",
+      "file": "2025/ryomen-sukuna-bundle.png"
+    },
+    {
+      "name": "Yuji Itadori",
+      "year": "2025",
+      "file": "2025/yuji-itadori.png"
+    },
+    {
+      "name": "Megumi Fushiguro",
+      "year": "2025",
+      "file": "2025/megumi-fushiguro.png"
+    },
+    {
+      "name": "Nobara Kugisaki",
+      "year": "2025",
+      "file": "2025/nobara-kugisaki.png"
+    },
+    {
+      "name": "Satoru Gojo",
+      "year": "2025",
+      "file": "2025/satoru-gojo.png"
+    },
+    {
+      "name": "Kento Nanami",
+      "year": "2025",
+      "file": "2025/kento-nanami.png"
+    },
+    {
+      "name": "Ryomen Sukuna",
+      "year": "2025",
+      "file": "2025/ryomen-sukuna.png"
+    },
+    {
+      "name": "Mahito",
+      "year": "2025",
+      "file": "2025/mahito.png"
+    },
+    {
+      "name": "Suguru Geto",
+      "year": "2025",
+      "file": "2025/suguru-geto.png"
+    },
+    {
+      "name": "Hoppy Boi Bundle",
+      "year": "2025",
+      "file": "2025/hoppy-boi-bundle.png"
+    },
+    {
+      "name": "Lover Girl Autumn Bundle",
+      "year": "2025",
+      "file": "2025/lover-girl-autumn-bundle.png"
+    },
+    {
+      "name": "Autumn Foliage Bundle",
+      "year": "2025",
+      "file": "2025/autumn-foliage-bundle.png"
+    },
+    {
+      "name": "Forest Frolic",
+      "year": "2025",
+      "file": "2025/forest-frolic.png"
+    },
+    {
+      "name": "Cozy Deer",
+      "year": "2025",
+      "file": "2025/cozy-deer.png"
+    },
+    {
+      "name": "A Real Fungi",
+      "year": "2025",
+      "file": "2025/a-real-fungi.png"
+    },
+    {
+      "name": "It's Showtime! Bundle",
+      "year": "2025",
+      "file": "2025/its-showtime-bundle.png"
+    },
+    {
+      "name": "Encore! Bundle",
+      "year": "2025",
+      "file": "2025/encore-bundle.png"
+    },
+    {
+      "name": "Beyond the Veil Bundle",
+      "year": "2025",
+      "file": "2025/beyond-the-veil-bundle.png"
+    },
+    {
+      "name": "Loot Bundle",
+      "year": "2025",
+      "file": "2025/loot-bundle.png"
+    },
+    {
+      "name": "I'm Dancin'!",
+      "year": "2025",
+      "file": "2025/im-dancin.png"
+    },
+    {
+      "name": "Finger Gun",
+      "year": "2025",
+      "file": "2025/finger-gun.png"
+    },
+    {
+      "name": "Bandit Mask",
+      "year": "2025",
+      "file": "2025/bandit-mask.png"
+    },
+    {
+      "name": "Mad Moxxi",
+      "year": "2025",
+      "file": "2025/mad-moxxi.png"
+    },
+    {
+      "name": "Moonlit Bundle",
+      "year": "2025",
+      "file": "2025/moonlit-bundle.png"
+    },
+    {
+      "name": "Lunar Essence Bundle",
+      "year": "2025",
+      "file": "2025/lunar-essence-bundle.png"
+    },
+    {
+      "name": "Lunar Flowers",
+      "year": "2025",
+      "file": "2025/lunar-flowers.png"
+    },
+    {
+      "name": "Starlight Tiara",
+      "year": "2025",
+      "file": "2025/starlight-tiara.png"
+    },
+    {
+      "name": "Astral Aura",
+      "year": "2025",
+      "file": "2025/astral-aura.png"
+    },
+    {
+      "name": "Luna Moths",
+      "year": "2025",
+      "file": "2025/luna-moths.png"
+    },
+    {
+      "name": "After the Rain Bundle",
+      "year": "2025",
+      "file": "2025/after-the-rain-bundle.png"
+    },
+    {
+      "name": "Butterfly Garden Bundle",
+      "year": "2025",
+      "file": "2025/butterfly-garden-bundle.png"
+    },
+    {
+      "name": "Greenhouse Bundle",
+      "year": "2025",
+      "file": "2025/greenhouse-bundle.png"
+    },
+    {
+      "name": "Terrarium",
+      "year": "2025",
+      "file": "2025/terrarium.png"
+    },
+    {
+      "name": "Mushcaps",
+      "year": "2025",
+      "file": "2025/mushcaps.png"
+    },
+    {
+      "name": "Blossomburst",
+      "year": "2025",
+      "file": "2025/blossomburst.png"
+    },
+    {
+      "name": "Cute and Chaotic Bundle",
+      "year": "2025",
+      "file": "2025/cute-and-chaotic-bundle.png"
+    },
+    {
+      "name": "hehe so random xP Bundle",
+      "year": "2025",
+      "file": "2025/hehe-so-random-xp-bundle.png"
+    },
+    {
+      "name": "Rawr xD Bundle",
+      "year": "2025",
+      "file": "2025/rawr-xd-bundle.png"
+    },
+    {
+      "name": "Neon Cat Hoodie",
+      "year": "2025",
+      "file": "2025/neon-cat-hoodie.png"
+    },
+    {
+      "name": "Neon Cat Hoodie (Blue)",
+      "year": "2025",
+      "file": "2025/neon-cat-hoodie-blue.png"
+    },
+    {
+      "name": "Neon Cat Hoodie (Pink)",
+      "year": "2025",
+      "file": "2025/neon-cat-hoodie-pink.png"
+    },
+    {
+      "name": "Neon Cat Hoodie (Black)",
+      "year": "2025",
+      "file": "2025/neon-cat-hoodie-black.png"
+    },
+    {
+      "name": "Neon Decora Hair",
+      "year": "2025",
+      "file": "2025/neon-decora-hair.png"
+    },
+    {
+      "name": "Neon Spike Choker",
+      "year": "2025",
+      "file": "2025/neon-spike-choker.png"
+    },
+    {
+      "name": "Neon Spike Choker (Black)",
+      "year": "2025",
+      "file": "2025/neon-spike-choker-black.png"
+    },
+    {
+      "name": "Mischievous Kitties (Hearts)",
+      "year": "2025",
+      "file": "2025/mischievous-kitties-hearts.png"
+    },
+    {
+      "name": "Mischievous Kitties (Blue)",
+      "year": "2025",
+      "file": "2025/mischievous-kitties-blue.png"
+    },
+    {
+      "name": "Infinite Swirl Bundle",
+      "year": "2025",
+      "file": "2025/infinite-swirl-bundle.png"
+    },
+    {
+      "name": "Magic Mists",
+      "year": "2025",
+      "file": "2025/magic-mists.png"
+    },
+    {
+      "name": "Pondering Portal",
+      "year": "2025",
+      "file": "2025/pondering-portal.png"
+    },
+    {
+      "name": "The Fantastic Four Bundle",
+      "year": "2025",
+      "file": "2025/the-fantastic-four-bundle.png"
+    },
+    {
+      "name": "Silver Surfer Bundle",
+      "year": "2025",
+      "file": "2025/silver-surfer-bundle.png"
+    },
+    {
+      "name": "The Thing",
+      "year": "2025",
+      "file": "2025/the-thing.png"
+    },
+    {
+      "name": "Invisible Woman",
+      "year": "2025",
+      "file": "2025/invisible-woman.png"
+    },
+    {
+      "name": "Mister Fantastic",
+      "year": "2025",
+      "file": "2025/mister-fantastic.png"
+    },
+    {
+      "name": "Human Torch",
+      "year": "2025",
+      "file": "2025/human-torch.png"
+    },
+    {
+      "name": "Ahri's Floating Ducks Bundle",
+      "year": "2025",
+      "file": "2025/ahris-floating-ducks-bundle.png"
+    },
+    {
+      "name": "Yunara's Aion Er'na Bundle",
+      "year": "2025",
+      "file": "2025/yunaras-aion-erna-bundle.png"
+    },
+    {
+      "name": "Spirit Blossom Springs Bundle",
+      "year": "2025",
+      "file": "2025/spirit-blossom-springs-bundle.png"
+    },
+    {
+      "name": "Spirit Blossom Zed",
+      "year": "2025",
+      "file": "2025/spirit-blossom-zed.png"
+    },
+    {
+      "name": "Spirit Blossom Springs Sett",
+      "year": "2025",
+      "file": "2025/spirit-blossom-springs-sett.png"
+    },
+    {
+      "name": "Spirit Blossom Morgana",
+      "year": "2025",
+      "file": "2025/spirit-blossom-morgana.png"
+    },
+    {
+      "name": "Spirit Blossom Karma",
+      "year": "2025",
+      "file": "2025/spirit-blossom-karma.png"
+    },
+    {
+      "name": "Skibidi Toilet Bundle",
+      "year": "2025",
+      "file": "2025/skibidi-toilet-bundle.png"
+    },
+    {
+      "name": "Ultimate Boss Bundle",
+      "year": "2025",
+      "file": "2025/ultimate-boss-bundle.png"
+    },
+    {
+      "name": "Cameraman Glitch",
+      "year": "2025",
+      "file": "2025/cameraman-glitch.png"
+    },
+    {
+      "name": "Speakerwoman",
+      "year": "2025",
+      "file": "2025/speakerwoman.png"
+    },
+    {
+      "name": "TV Woman",
+      "year": "2025",
+      "file": "2025/tv-woman.png"
+    },
+    {
+      "name": "Juggernaut Astro",
+      "year": "2025",
+      "file": "2025/juggernaut-astro.png"
+    },
+    {
+      "name": "the duck bundle",
+      "year": "2025",
+      "file": "2025/the-duck-bundle.png"
+    },
+    {
+      "name": "Bubble Bundle",
+      "year": "2025",
+      "file": "2025/bubble-bundle.png"
+    },
+    {
+      "name": "Fireflies Bundle",
+      "year": "2025",
+      "file": "2025/fireflies-bundle.png"
+    },
+    {
+      "name": "Sunflowers",
+      "year": "2025",
+      "file": "2025/sunflowers.png"
+    },
+    {
+      "name": "Sippy Juice",
+      "year": "2025",
+      "file": "2025/sippy-juice.png"
+    },
+    {
+      "name": "Beach Hat",
+      "year": "2025",
+      "file": "2025/beach-hat.png"
+    },
+    {
+      "name": "Violet Dice Roll Bundle",
+      "year": "2024",
+      "file": "2024/violet-dice-roll-bundle.png"
+    },
+    {
+      "name": "Azure Dice Roll Bundle",
+      "year": "2024",
+      "file": "2024/azure-dice-roll-bundle.png"
+    },
+    {
+      "name": "Green Gelatinous Cube",
+      "year": "2024",
+      "file": "2024/green-gelatinous-cube.png"
+    },
+    {
+      "name": "Blue Gelatinous Cube",
+      "year": "2024",
+      "file": "2024/blue-gelatinous-cube.png"
+    },
+    {
+      "name": "Owlbear Cub",
+      "year": "2024",
+      "file": "2024/owlbear-cub.png"
+    },
+    {
+      "name": "Snowy Owlbear Cub",
+      "year": "2024",
+      "file": "2024/snowy-owlbear-cub.png"
+    },
+    {
+      "name": "Baby Displacer Beast",
+      "year": "2024",
+      "file": "2024/baby-displacer-beast.png"
+    },
+    {
+      "name": "Bonsai Bundle",
+      "year": "2025",
+      "file": "2025/bonsai-bundle.png"
+    },
+    {
+      "name": "Zen Garden Bundle",
+      "year": "2025",
+      "file": "2025/zen-garden-bundle.png"
+    },
+    {
+      "name": "Cyber Samurai Bundle",
+      "year": "2025",
+      "file": "2025/cyber-samurai-bundle.png"
+    },
+    {
+      "name": "Hologram Dragon",
+      "year": "2025",
+      "file": "2025/hologram-dragon.png"
+    },
+    {
+      "name": "Cyber Katana",
+      "year": "2025",
+      "file": "2025/cyber-katana.png"
+    },
+    {
+      "name": "O.N.I",
+      "year": "2025",
+      "file": "2025/oni.png"
+    },
+    {
+      "name": "White Mana Bundle",
+      "year": "2025",
+      "file": "2025/white-mana-bundle.png"
+    },
+    {
+      "name": "Blue Mana Bundle",
+      "year": "2025",
+      "file": "2025/blue-mana-bundle.png"
+    },
+    {
+      "name": "Black Mana Bundle",
+      "year": "2025",
+      "file": "2025/black-mana-bundle.png"
+    },
+    {
+      "name": "Red Mana Bundle",
+      "year": "2025",
+      "file": "2025/red-mana-bundle.png"
+    },
+    {
+      "name": "Green Mana Bundle",
+      "year": "2025",
+      "file": "2025/green-mana-bundle.png"
+    },
+    {
+      "name": "Izuku Midoriya Bundle",
+      "year": "2025",
+      "file": "2025/izuku-midoriya-bundle.png"
+    },
+    {
+      "name": "Katsuki Bakugo Bundle",
+      "year": "2025",
+      "file": "2025/katsuki-bakugo-bundle.png"
+    },
+    {
+      "name": "Tomura Shigaraki Bundle",
+      "year": "2025",
+      "file": "2025/tomura-shigaraki-bundle.png"
+    },
+    {
+      "name": "Ochaco Uraraka",
+      "year": "2025",
+      "file": "2025/ochaco-uraraka.png"
+    },
+    {
+      "name": "Shoto Todoroki",
+      "year": "2025",
+      "file": "2025/shoto-todoroki.png"
+    },
+    {
+      "name": "Endeavor",
+      "year": "2025",
+      "file": "2025/endeavor.png"
+    },
+    {
+      "name": "Hawks",
+      "year": "2025",
+      "file": "2025/hawks.png"
+    },
+    {
+      "name": "All Might",
+      "year": "2025",
+      "file": "2025/all-might.png"
+    },
+    {
+      "name": "Bountiful Harvest Bundle",
+      "year": "2025",
+      "file": "2025/bountiful-harvest-bundle.png"
+    },
+    {
+      "name": "Gone Fishin' Bundle",
+      "year": "2025",
+      "file": "2025/gone-fishin-bundle.png"
+    },
+    {
+      "name": "Baker's Delight Bundle",
+      "year": "2025",
+      "file": "2025/bakers-delight-bundle.png"
+    },
+    {
+      "name": "Dewdrop",
+      "year": "2025",
+      "file": "2025/dewdrop.png"
+    },
+    {
+      "name": "Sleepy Bee",
+      "year": "2025",
+      "file": "2025/sleepy-bee.png"
+    },
+    {
+      "name": "Shroomling",
+      "year": "2025",
+      "file": "2025/shroomling.png"
+    },
+    {
+      "name": "Shroomling (Brown)",
+      "year": "2025",
+      "file": "2025/shroomling-brown.png"
+    },
+    {
+      "name": "Shroomling (Blue)",
+      "year": "2025",
+      "file": "2025/shroomling-blue.png"
+    },
+    {
+      "name": "Shroomling (Purple)",
+      "year": "2025",
+      "file": "2025/shroomling-purple.png"
+    },
+    {
+      "name": "Shroomling (Pink)",
+      "year": "2025",
+      "file": "2025/shroomling-pink.png"
+    },
+    {
+      "name": "Hammy",
+      "year": "2025",
+      "file": "2025/hammy.png"
+    },
+    {
+      "name": "Hammy (Blue)",
+      "year": "2025",
+      "file": "2025/hammy-blue.png"
+    },
+    {
+      "name": "Hammy (Pink)",
+      "year": "2025",
+      "file": "2025/hammy-pink.png"
+    },
+    {
+      "name": "Hammy (Green)",
+      "year": "2025",
+      "file": "2025/hammy-green.png"
+    },
+    {
+      "name": "Hyperspace Bundle",
+      "year": "2025",
+      "file": "2025/hyperspace-bundle.png"
+    },
+    {
+      "name": "Blue Lightsaber Bundle",
+      "year": "2025",
+      "file": "2025/blue-lightsaber-bundle.png"
+    },
+    {
+      "name": "Green Lightsaber Bundle",
+      "year": "2025",
+      "file": "2025/green-lightsaber-bundle.png"
+    },
+    {
+      "name": "R2-D2 on Tatooine",
+      "year": "2025",
+      "file": "2025/r2-d2-on-tatooine.png"
+    },
+    {
+      "name": "Curious BB-8",
+      "year": "2025",
+      "file": "2025/curious-bb-8.png"
+    },
+    {
+      "name": "Yoda on Dagobah",
+      "year": "2025",
+      "file": "2025/yoda-on-dagobah.png"
+    },
+    {
+      "name": "Space Battle",
+      "year": "2025",
+      "file": "2025/space-battle.png"
+    },
+    {
+      "name": "Copium Bundle",
+      "year": "2025",
+      "file": "2025/copium-bundle.png"
+    },
+    {
+      "name": "F in Chat (Black) Bundle",
+      "year": "2025",
+      "file": "2025/f-in-chat-black-bundle.png"
+    },
+    {
+      "name": "F in Chat (White) Bundle",
+      "year": "2025",
+      "file": "2025/f-in-chat-white-bundle.png"
+    },
+    {
+      "name": "Trash",
+      "year": "2025",
+      "file": "2025/trash.png"
+    },
+    {
+      "name": "Grass Toucher",
+      "year": "2025",
+      "file": "2025/grass-toucher.png"
+    },
+    {
+      "name": "Git Gud",
+      "year": "2025",
+      "file": "2025/git-gud.png"
+    },
+    {
+      "name": "GGEZ",
+      "year": "2025",
+      "file": "2025/ggez.png"
+    },
+    {
+      "name": "Questionable",
+      "year": "2025",
+      "file": "2025/questionable.png"
+    },
+    {
+      "name": "Lazy Loaf Bundle",
+      "year": "2025",
+      "file": "2025/lazy-loaf-bundle.png"
+    },
+    {
+      "name": "Berry Bunny",
+      "year": "2025",
+      "file": "2025/berry-bunny.png"
+    },
+    {
+      "name": "Mochi Bunny (Pink)",
+      "year": "2025",
+      "file": "2025/mochi-bunny-pink.png"
+    },
+    {
+      "name": "Mochi Bunny (Blue)",
+      "year": "2025",
+      "file": "2025/mochi-bunny-blue.png"
+    },
+    {
+      "name": "Nibbles",
+      "year": "2025",
+      "file": "2025/nibbles.png"
+    },
+    {
+      "name": "Donut Cow",
+      "year": "2025",
+      "file": "2025/donut-cow.png"
+    },
+    {
+      "name": "Donut Cat",
+      "year": "2025",
+      "file": "2025/donut-cat.png"
+    },
+    {
+      "name": "Donut Bear",
+      "year": "2025",
+      "file": "2025/donut-bear.png"
+    },
+    {
+      "name": "Ice Cream Frog",
+      "year": "2025",
+      "file": "2025/ice-cream-frog.png"
+    },
+    {
+      "name": "Jelly Bear",
+      "year": "2025",
+      "file": "2025/jelly-bear.png"
+    },
+    {
+      "name": "Nom Kitty Bundle",
+      "year": "2025",
+      "file": "2025/nom-kitty-bundle.png"
+    },
+    {
+      "name": "Chicken Nugget Bundle",
+      "year": "2025",
+      "file": "2025/chicken-nugget-bundle.png"
+    },
+    {
+      "name": "Egg",
+      "year": "2025",
+      "file": "2025/egg.png"
+    },
+    {
+      "name": "Toilet Lid",
+      "year": "2025",
+      "file": "2025/toilet-lid.png"
+    },
+    {
+      "name": "Feeling Cute",
+      "year": "2025",
+      "file": "2025/feeling-cute.png"
+    },
+    {
+      "name": "Buffering...",
+      "year": "2025",
+      "file": "2025/buffering.png"
+    },
+    {
+      "name": "Starlight Whales Bundle",
+      "year": "2025",
+      "file": "2025/starlight-whales-bundle.png"
+    },
+    {
+      "name": "Mirage Bundle",
+      "year": "2025",
+      "file": "2025/mirage-bundle.png"
+    },
+    {
+      "name": "Lava Lamp Bundle",
+      "year": "2025",
+      "file": "2025/lava-lamp-bundle.png"
+    },
+    {
+      "name": "Head In the Clouds",
+      "year": "2025",
+      "file": "2025/head-in-the-clouds.png"
+    },
+    {
+      "name": "Head In the Clouds (Sunset)",
+      "year": "2025",
+      "file": "2025/head-in-the-clouds-sunset.png"
+    },
+    {
+      "name": "Mirage (Void)",
+      "year": "2025",
+      "file": "2025/mirage-void.png"
+    },
+    {
+      "name": "Mirage (Twilight)",
+      "year": "2025",
+      "file": "2025/mirage-twilight.png"
+    },
+    {
+      "name": "Mirage (Nightshade)",
+      "year": "2025",
+      "file": "2025/mirage-nightshade.png"
+    },
+    {
+      "name": "Lava Blobs (Pink)",
+      "year": "2025",
+      "file": "2025/lava-blobs-pink.png"
+    },
+    {
+      "name": "Lava Blobs (Blue)",
+      "year": "2025",
+      "file": "2025/lava-blobs-blue.png"
+    },
+    {
+      "name": "Lava Blobs (Slime)",
+      "year": "2025",
+      "file": "2025/lava-blobs-slime.png"
+    },
+    {
+      "name": "Luminescent Lotus",
+      "year": "2025",
+      "file": "2025/luminescent-lotus.png"
+    },
+    {
+      "name": "Woolgathering",
+      "year": "2025",
+      "file": "2025/woolgathering.png"
+    },
+    {
+      "name": "Magical Girl Bundle",
+      "year": "2025",
+      "file": "2025/magical-girl-bundle.png"
+    },
+    {
+      "name": "Heartthrob Bundle",
+      "year": "2024",
+      "file": "2024/heartthrob-bundle.png"
+    },
+    {
+      "name": "Cat Onesie (Black)",
+      "year": "2025",
+      "file": "2025/cat-onesie-black.png"
+    },
+    {
+      "name": "Cat Onesie",
+      "year": "2025",
+      "file": "2025/cat-onesie.png"
+    },
+    {
+      "name": "Cat Onesie (Pink)",
+      "year": "2025",
+      "file": "2025/cat-onesie-pink.png"
+    },
+    {
+      "name": "Shy",
+      "year": "2025",
+      "file": "2025/shy.png"
+    },
+    {
+      "name": "Shy (In Love)",
+      "year": "2025",
+      "file": "2025/shy-in-love.png"
+    },
+    {
+      "name": "Rumbling",
+      "year": "2025",
+      "file": "2025/rumbling.png"
+    },
+    {
+      "name": "Sakura Scholar",
+      "year": "2025",
+      "file": "2025/sakura-scholar.png"
+    },
+    {
+      "name": "Sushi Roll",
+      "year": "2025",
+      "file": "2025/sushi-roll.png"
+    },
+    {
+      "name": "Ramen Bowl",
+      "year": "2025",
+      "file": "2025/ramen-bowl.png"
+    },
+    {
+      "name": "Ramen Bowl (Toppings)",
+      "year": "2025",
+      "file": "2025/ramen-bowl-toppings.png"
+    },
+    {
+      "name": "Angry",
+      "year": "2023",
+      "file": "2023/angry.png"
+    },
+    {
+      "name": "Angry (Pink)",
+      "year": "2025",
+      "file": "2025/angry-pink.png"
+    },
+    {
+      "name": "Angry (Yellow)",
+      "year": "2025",
+      "file": "2025/angry-yellow.png"
+    },
+    {
+      "name": "Radiating Energy",
+      "year": "2023",
+      "file": "2023/radiating-energy.png"
+    },
+    {
+      "name": "Radiating Energy (Yellow)",
+      "year": "2025",
+      "file": "2025/radiating-energy-yellow.png"
+    },
+    {
+      "name": "Radiating Energy (Blue)",
+      "year": "2025",
+      "file": "2025/radiating-energy-blue.png"
+    },
+    {
+      "name": "Sweat Drops",
+      "year": "2023",
+      "file": "2023/sweat-drops.png"
+    },
+    {
+      "name": "Sweat Drops (Cyan)",
+      "year": "2025",
+      "file": "2025/sweat-drops-cyan.png"
+    },
+    {
+      "name": "Sweat Drops (Pink)",
+      "year": "2025",
+      "file": "2025/sweat-drops-pink.png"
+    },
+    {
+      "name": "Heartbloom (Purple)",
+      "year": "2025",
+      "file": "2025/heartbloom-purple.png"
+    },
+    {
+      "name": "Heartbloom (Blue)",
+      "year": "2025",
+      "file": "2025/heartbloom-blue.png"
+    },
+    {
+      "name": "Heartbloom (Yellow)",
+      "year": "2025",
+      "file": "2025/heartbloom-yellow.png"
+    },
+    {
+      "name": "Heartbloom (Green)",
+      "year": "2025",
+      "file": "2025/heartbloom-green.png"
+    },
+    {
+      "name": "Soul Leaving Body",
+      "year": "2023",
+      "file": "2023/soul-leaving-body.png"
+    },
+    {
+      "name": "Soul Leaving Body (Blue)",
+      "year": "2025",
+      "file": "2025/soul-leaving-body-blue.png"
+    },
+    {
+      "name": "Rage",
+      "year": "2024",
+      "file": "2024/rage.png"
+    },
+    {
+      "name": "Rage (Green)",
+      "year": "2025",
+      "file": "2025/rage-green.png"
+    },
+    {
+      "name": "Rage (Blue)",
+      "year": "2025",
+      "file": "2025/rage-blue.png"
+    },
+    {
+      "name": "Rage (Purple)",
+      "year": "2025",
+      "file": "2025/rage-purple.png"
+    },
+    {
+      "name": "Rage (Red)",
+      "year": "2025",
+      "file": "2025/rage-red.png"
+    },
+    {
+      "name": "Starry Eyed",
+      "year": "2023",
+      "file": "2023/starry-eyed.png"
+    },
+    {
+      "name": "Starry Eyed (Green)",
+      "year": "2025",
+      "file": "2025/starry-eyed-green.png"
+    },
+    {
+      "name": "Starry Eyed (Pink)",
+      "year": "2025",
+      "file": "2025/starry-eyed-pink.png"
+    },
+    {
+      "name": "Shocked",
+      "year": "2023",
+      "file": "2023/shocked.png"
+    },
+    {
+      "name": "Shocked (Green)",
+      "year": "2025",
+      "file": "2025/shocked-green.png"
+    },
+    {
+      "name": "Shocked (Yellow)",
+      "year": "2025",
+      "file": "2025/shocked-yellow.png"
+    },
+    {
+      "name": "In Love",
+      "year": "2023",
+      "file": "2023/in-love.png"
+    },
+    {
+      "name": "In Love (Blue)",
+      "year": "2025",
+      "file": "2025/in-love-blue.png"
+    },
+    {
+      "name": "In Love (Green)",
+      "year": "2025",
+      "file": "2025/in-love-green.png"
+    },
+    {
+      "name": "Ki Energy",
+      "year": "2024",
+      "file": "2024/ki-energy.png"
+    },
+    {
+      "name": "Ki Energy (Green)",
+      "year": "2025",
+      "file": "2025/ki-energy-green.png"
+    },
+    {
+      "name": "Ki Energy (Cyan)",
+      "year": "2025",
+      "file": "2025/ki-energy-cyan.png"
+    },
+    {
+      "name": "Ki Energy (Blue)",
+      "year": "2025",
+      "file": "2025/ki-energy-blue.png"
+    },
+    {
+      "name": "Ki Energy (Fuchsia)",
+      "year": "2025",
+      "file": "2025/ki-energy-fuchsia.png"
+    },
+    {
+      "name": "In Tears",
+      "year": "2024",
+      "file": "2024/in-tears.png"
+    },
+    {
+      "name": "In Tears (Purple)",
+      "year": "2025",
+      "file": "2025/in-tears-purple.png"
+    },
+    {
+      "name": "In Tears (Pink)",
+      "year": "2025",
+      "file": "2025/in-tears-pink.png"
+    },
+    {
+      "name": "In Tears (Yellow)",
+      "year": "2025",
+      "file": "2025/in-tears-yellow.png"
+    },
+    {
+      "name": "In Tears (Green)",
+      "year": "2025",
+      "file": "2025/in-tears-green.png"
+    },
+    {
+      "name": "Dismay",
+      "year": "2024",
+      "file": "2024/dismay.png"
+    },
+    {
+      "name": "Dismay (Purple)",
+      "year": "2025",
+      "file": "2025/dismay-purple.png"
+    },
+    {
+      "name": "Dismay (Pink)",
+      "year": "2025",
+      "file": "2025/dismay-pink.png"
+    },
+    {
+      "name": "Dismay (Yellow)",
+      "year": "2025",
+      "file": "2025/dismay-yellow.png"
+    },
+    {
+      "name": "Dismay (Green)",
+      "year": "2025",
+      "file": "2025/dismay-green.png"
+    },
+    {
+      "name": "Cat Ears",
+      "year": "2024",
+      "file": "2024/cat-ears.png"
+    },
+    {
+      "name": "Cat Ears (Yellow)",
+      "year": "2025",
+      "file": "2025/cat-ears-yellow.png"
+    },
+    {
+      "name": "Cat Ears (Green)",
+      "year": "2025",
+      "file": "2025/cat-ears-green.png"
+    },
+    {
+      "name": "Cat Ears (Blue)",
+      "year": "2025",
+      "file": "2025/cat-ears-blue.png"
+    },
+    {
+      "name": "Cat Ears (Purple)",
+      "year": "2025",
+      "file": "2025/cat-ears-purple.png"
+    },
+    {
+      "name": "Roses are Red Bundle",
+      "year": "2025",
+      "file": "2025/roses-are-red-bundle.png"
+    },
+    {
+      "name": "Roses are Blue Bundle",
+      "year": "2025",
+      "file": "2025/roses-are-blue-bundle.png"
+    },
+    {
+      "name": "Red Heartstrings Bundle",
+      "year": "2025",
+      "file": "2025/red-heartstrings-bundle.png"
+    },
+    {
+      "name": "Blue Heartstrings Bundle",
+      "year": "2025",
+      "file": "2025/blue-heartstrings-bundle.png"
+    },
+    {
+      "name": "Rose Bearer (Pink)",
+      "year": "2025",
+      "file": "2025/rose-bearer-pink.png"
+    },
+    {
+      "name": "Rose Bearer (Blue)",
+      "year": "2025",
+      "file": "2025/rose-bearer-blue.png"
+    },
+    {
+      "name": "Angel",
+      "year": "2025",
+      "file": "2025/angel.png"
+    },
+    {
+      "name": "Devil",
+      "year": "2025",
+      "file": "2025/devil.png"
+    },
+    {
+      "name": "Aim for Love",
+      "year": "2025",
+      "file": "2025/aim-for-love.png"
+    },
+    {
+      "name": "Lovestruck",
+      "year": "2025",
+      "file": "2025/lovestruck.png"
+    },
+    {
+      "name": "Build Your Empire Bundle",
+      "year": "2025",
+      "file": "2025/build-your-empire-bundle.png"
+    },
+    {
+      "name": "Land and Sea Bundle",
+      "year": "2025",
+      "file": "2025/land-and-sea-bundle.png"
+    },
+    {
+      "name": "Make Your Mark Bundle",
+      "year": "2025",
+      "file": "2025/make-your-mark-bundle.png"
+    },
+    {
+      "name": "Gold Laurel Wreath",
+      "year": "2025",
+      "file": "2025/gold-laurel-wreath.png"
+    },
+    {
+      "name": "City Walls",
+      "year": "2025",
+      "file": "2025/city-walls.png"
+    },
+    {
+      "name": "Next Turn Button",
+      "year": "2025",
+      "file": "2025/next-turn-button.png"
+    },
+    {
+      "name": "Year of the Snake 2025 Bundle",
+      "year": "2025",
+      "file": "2025/year-of-the-snake-2025-bundle.png"
+    },
+    {
+      "name": "Koi Fish Bundle",
+      "year": "2024",
+      "file": "2024/koi-fish-bundle.png"
+    },
+    {
+      "name": "Lunar Celebration Bundle",
+      "year": "2024",
+      "file": "2024/lunar-celebration-bundle.png"
+    },
+    {
+      "name": "Lucky Envelopes Bundle",
+      "year": "2024",
+      "file": "2024/lucky-envelopes-bundle.png"
+    },
+    {
+      "name": "Lotus Flower",
+      "year": "2025",
+      "file": "2025/lotus-flower.png"
+    },
+    {
+      "name": "Red Lantern",
+      "year": "2025",
+      "file": "2025/red-lantern.png"
+    },
+    {
+      "name": "Fan Flourish",
+      "year": "2024",
+      "file": "2024/fan-flourish.png"
+    },
+    {
+      "name": "Lunar Lanterns",
+      "year": "2024",
+      "file": "2024/lunar-lanterns.png"
+    },
+    {
+      "name": "Dragon's Smile",
+      "year": "2024",
+      "file": "2024/dragons-smile.png"
+    },
+    {
+      "name": "Full Steam Ahead Bundle",
+      "year": "2025",
+      "file": "2025/full-steam-ahead-bundle.png"
+    },
+    {
+      "name": "Industrial Bloom Bundle",
+      "year": "2025",
+      "file": "2025/industrial-bloom-bundle.png"
+    },
+    {
+      "name": "Bowler Hat",
+      "year": "2025",
+      "file": "2025/bowler-hat.png"
+    },
+    {
+      "name": "Brass Beats",
+      "year": "2025",
+      "file": "2025/brass-beats.png"
+    },
+    {
+      "name": "Timekeeper's Clock",
+      "year": "2025",
+      "file": "2025/timekeepers-clock.png"
+    },
+    {
+      "name": "Flux Alchemy",
+      "year": "2025",
+      "file": "2025/flux-alchemy.png"
+    },
+    {
+      "name": "Pink Fairy Sprites Bundle",
+      "year": "2025",
+      "file": "2025/pink-fairy-sprites-bundle.png"
+    },
+    {
+      "name": "Blue Fairy Sprites Bundle",
+      "year": "2025",
+      "file": "2025/blue-fairy-sprites-bundle.png"
+    },
+    {
+      "name": "Purple Magic Portal Bundle",
+      "year": "2025",
+      "file": "2025/purple-magic-portal-bundle.png"
+    },
+    {
+      "name": "Blue Magic Portal Bundle",
+      "year": "2025",
+      "file": "2025/blue-magic-portal-bundle.png"
+    },
+    {
+      "name": "Pink Mooncaps Bundle",
+      "year": "2025",
+      "file": "2025/pink-mooncaps-bundle.png"
+    },
+    {
+      "name": "Blue Mooncaps Bundle",
+      "year": "2025",
+      "file": "2025/blue-mooncaps-bundle.png"
+    },
+    {
+      "name": "Fairy Sprites",
+      "year": "2023",
+      "file": "2023/fairy-sprites.png"
+    },
+    {
+      "name": "Crystal Ball (Purple)",
+      "year": "2025",
+      "file": "2025/crystal-ball-purple.png"
+    },
+    {
+      "name": "Crystal Ball (Blue)",
+      "year": "2025",
+      "file": "2025/crystal-ball-blue.png"
+    },
+    {
+      "name": "Wizard Hat (Purple)",
+      "year": "2025",
+      "file": "2025/wizard-hat-purple.png"
+    },
+    {
+      "name": "Wizard Hat (Blue)",
+      "year": "2025",
+      "file": "2025/wizard-hat-blue.png"
+    },
+    {
+      "name": "Magical Wand (Purple)",
+      "year": "2025",
+      "file": "2025/magical-wand-purple.png"
+    },
+    {
+      "name": "Magical Wand (Green)",
+      "year": "2025",
+      "file": "2025/magical-wand-green.png"
+    },
+    {
+      "name": "Cottage Home",
+      "year": "2025",
+      "file": "2025/cottage-home.png"
+    },
+    {
+      "name": "Flaming Sword",
+      "year": "2023",
+      "file": "2023/flaming-sword.png"
+    },
+    {
+      "name": "Magical Potion",
+      "year": "2023",
+      "file": "2023/magical-potion.png"
+    },
+    {
+      "name": "Wizard's Staff",
+      "year": "2023",
+      "file": "2023/wizards-staff.png"
+    },
+    {
+      "name": "Glowing Runes",
+      "year": "2023",
+      "file": "2023/glowing-runes.png"
+    },
+    {
+      "name": "Defensive Shield",
+      "year": "2023",
+      "file": "2023/defensive-shield.png"
+    },
+    {
+      "name": "Skull Medallion",
+      "year": "2023",
+      "file": "2023/skull-medallion.png"
+    },
+    {
+      "name": "Treasure and Key",
+      "year": "2023",
+      "file": "2023/treasure-and-key.png"
+    },
+    {
+      "name": "Aurora Bundle",
+      "year": "2024",
+      "file": "2024/aurora-bundle.png"
+    },
+    {
+      "name": "String Lights Bundle",
+      "year": "2023",
+      "file": "2023/string-lights-bundle.png"
+    },
+    {
+      "name": "Aurora String Lights Bundle",
+      "year": "2024",
+      "file": "2024/aurora-string-lights-bundle.png"
+    },
+    {
+      "name": "Ember String Lights Bundle",
+      "year": "2024",
+      "file": "2024/ember-string-lights-bundle.png"
+    },
+    {
+      "name": "Dusk String Lights Bundle",
+      "year": "2024",
+      "file": "2024/dusk-string-lights-bundle.png"
+    },
+    {
+      "name": "Mix String Lights Bundle",
+      "year": "2024",
+      "file": "2024/mix-string-lights-bundle.png"
+    },
+    {
+      "name": "Polar Bear Hat",
+      "year": "2024",
+      "file": "2024/polar-bear-hat.png"
+    },
+    {
+      "name": "Snowglobe",
+      "year": "2023",
+      "file": "2023/snowglobe.png"
+    },
+    {
+      "name": "Snowglobe (Wood)",
+      "year": "2024",
+      "file": "2024/snowglobe-wood.png"
+    },
+    {
+      "name": "Snowglobe (Pink)",
+      "year": "2024",
+      "file": "2024/snowglobe-pink.png"
+    },
+    {
+      "name": "Snowglobe (Blue)",
+      "year": "2024",
+      "file": "2024/snowglobe-blue.png"
+    },
+    {
+      "name": "Snowglobe (Green)",
+      "year": "2024",
+      "file": "2024/snowglobe-green.png"
+    },
+    {
+      "name": "Fresh Pine",
+      "year": "2023",
+      "file": "2023/fresh-pine.png"
+    },
+    {
+      "name": "Fresh Pine (Cinnamon)",
+      "year": "2024",
+      "file": "2024/fresh-pine-cinnamon.png"
+    },
+    {
+      "name": "Fresh Pine (Ribbon)",
+      "year": "2024",
+      "file": "2024/fresh-pine-ribbon.png"
+    },
+    {
+      "name": "Lofi Girl Bundle",
+      "year": "2024",
+      "file": "2024/lofi-girl-bundle.png"
+    },
+    {
+      "name": "Lofi Cat Bundle",
+      "year": "2024",
+      "file": "2024/lofi-cat-bundle.png"
+    },
+    {
+      "name": "Study Session Bundle",
+      "year": "2024",
+      "file": "2024/study-session-bundle.png"
+    },
+    {
+      "name": "Sleepy ChilledCow",
+      "year": "2024",
+      "file": "2024/sleepy-chilledcow.png"
+    },
+    {
+      "name": "Group Hug",
+      "year": "2024",
+      "file": "2024/group-hug.png"
+    },
+    {
+      "name": "Cozy Post-It",
+      "year": "2024",
+      "file": "2024/cozy-post-it.png"
+    },
+    {
+      "name": "Cozy Post-It (Festive)",
+      "year": "2024",
+      "file": "2024/cozy-post-it-festive.png"
+    },
+    {
+      "name": "Cuddly Squad Bundle",
+      "year": "2024",
+      "file": "2024/cuddly-squad-bundle.png"
+    },
+    {
+      "name": "Bubble Tea Fanatic Bundle",
+      "year": "2024",
+      "file": "2024/bubble-tea-fanatic-bundle.png"
+    },
+    {
+      "name": "Cat Ear Headset",
+      "year": "2024",
+      "file": "2024/cat-ear-headset.png"
+    },
+    {
+      "name": "Sproutling",
+      "year": "2024",
+      "file": "2024/sproutling.png"
+    },
+    {
+      "name": "Bloomling",
+      "year": "2024",
+      "file": "2024/bloomling.png"
+    },
+    {
+      "name": "Neon Nibbles",
+      "year": "2024",
+      "file": "2024/neon-nibbles.png"
+    },
+    {
+      "name": "UwU XP",
+      "year": "2024",
+      "file": "2024/uwu-xp.png"
+    },
+    {
+      "name": "Hex Lights",
+      "year": "2024",
+      "file": "2024/hex-lights.png"
+    },
+    {
+      "name": "Anomaly Bundle",
+      "year": "2024",
+      "file": "2024/anomaly-bundle.png"
+    },
+    {
+      "name": "The Mark",
+      "year": "2024",
+      "file": "2024/the-mark.png"
+    },
+    {
+      "name": "Arcane Jinx Bundle",
+      "year": "2024",
+      "file": "2024/arcane-jinx-bundle.png"
+    },
+    {
+      "name": "The Atlas Gauntlets",
+      "year": "2024",
+      "file": "2024/the-atlas-gauntlets.png"
+    },
+    {
+      "name": "Flame Chompers",
+      "year": "2024",
+      "file": "2024/flame-chompers.png"
+    },
+    {
+      "name": "FISHBONES!",
+      "year": "2024",
+      "file": "2024/fishbones.png"
+    },
+    {
+      "name": "The Hexcore",
+      "year": "2024",
+      "file": "2024/the-hexcore.png"
+    },
+    {
+      "name": "Powered by Shimmer",
+      "year": "2024",
+      "file": "2024/powered-by-shimmer.png"
+    },
+    {
+      "name": "Kitsune Dream Bundle",
+      "year": "2024",
+      "file": "2024/kitsune-dream-bundle.png"
+    },
+    {
+      "name": "Magical Fairies Bundle",
+      "year": "2024",
+      "file": "2024/magical-fairies-bundle.png"
+    },
+    {
+      "name": "Mermaid Whisperer Bundle",
+      "year": "2024",
+      "file": "2024/mermaid-whisperer-bundle.png"
+    },
+    {
+      "name": "Unicorn",
+      "year": "2024",
+      "file": "2024/unicorn.png"
+    },
+    {
+      "name": "Phoenix",
+      "year": "2024",
+      "file": "2024/phoenix.png"
+    },
+    {
+      "name": "Crystal Elk",
+      "year": "2024",
+      "file": "2024/crystal-elk.png"
+    },
+    {
+      "name": "Spooky Cat Ears",
+      "year": "2024",
+      "file": "2024/spooky-cat-ears.png"
+    },
+    {
+      "name": "Spooky Cat Ears (Midnight)",
+      "year": "2024",
+      "file": "2024/spooky-cat-ears-midnight.png"
+    },
+    {
+      "name": "Candlelight",
+      "year": "2024",
+      "file": "2024/candlelight.png"
+    },
+    {
+      "name": "Crimson Candlelight",
+      "year": "2024",
+      "file": "2024/crimson-candlelight.png"
+    },
+    {
+      "name": "Dark Candlelight",
+      "year": "2024",
+      "file": "2024/dark-candlelight.png"
+    },
+    {
+      "name": "Dark Hood",
+      "year": "2024",
+      "file": "2024/dark-hood.png"
+    },
+    {
+      "name": "Crimson Hood",
+      "year": "2024",
+      "file": "2024/crimson-hood.png"
+    },
+    {
+      "name": "Plum Witch Hat",
+      "year": "2024",
+      "file": "2024/plum-witch-hat.png"
+    },
+    {
+      "name": "Midnight Witch Hat",
+      "year": "2024",
+      "file": "2024/midnight-witch-hat.png"
+    },
+    {
+      "name": "Zombie Food",
+      "year": "2024",
+      "file": "2024/zombie-food.png"
+    },
+    {
+      "name": "Zombie Food (Purple)",
+      "year": "2024",
+      "file": "2024/zombie-food-purple.png"
+    },
+    {
+      "name": "Bloodthirsty",
+      "year": "2024",
+      "file": "2024/bloodthirsty.png"
+    },
+    {
+      "name": "Bloodthirsty (Green)",
+      "year": "2024",
+      "file": "2024/bloodthirsty-green.png"
+    },
+    {
+      "name": "Bloodthirsty (Gold)",
+      "year": "2024",
+      "file": "2024/bloodthirsty-gold.png"
+    },
+    {
+      "name": "Ryu Bundle",
+      "year": "2024",
+      "file": "2024/ryu-bundle.png"
+    },
+    {
+      "name": "Akuma Bundle",
+      "year": "2024",
+      "file": "2024/akuma-bundle.png"
+    },
+    {
+      "name": "M. Bison Bundle",
+      "year": "2024",
+      "file": "2024/m-bison-bundle.png"
+    },
+    {
+      "name": "Chun-Li",
+      "year": "2024",
+      "file": "2024/chun-li.png"
+    },
+    {
+      "name": "Ken",
+      "year": "2024",
+      "file": "2024/ken.png"
+    },
+    {
+      "name": "Cammy",
+      "year": "2024",
+      "file": "2024/cammy.png"
+    },
+    {
+      "name": "Guile",
+      "year": "2024",
+      "file": "2024/guile.png"
+    },
+    {
+      "name": "Juri",
+      "year": "2024",
+      "file": "2024/juri.png"
+    },
+    {
+      "name": "Twilight Chrysanthemums Bundle",
+      "year": "2024",
+      "file": "2024/twilight-chrysanthemums-bundle.png"
+    },
+    {
+      "name": "Autumn Equinox Bundle",
+      "year": "2024",
+      "file": "2024/autumn-equinox-bundle.png"
+    },
+    {
+      "name": "Morning Chrysanthemums",
+      "year": "2024",
+      "file": "2024/morning-chrysanthemums.png"
+    },
+    {
+      "name": "Floral Harmony",
+      "year": "2024",
+      "file": "2024/floral-harmony.png"
+    },
+    {
+      "name": "Floral Harmony (Sunburst)",
+      "year": "2024",
+      "file": "2024/floral-harmony-sunburst.png"
+    },
+    {
+      "name": "Autumn's Arbor",
+      "year": "2024",
+      "file": "2024/autumns-arbor.png"
+    },
+    {
+      "name": "Autumn's Arbor (Aurora)",
+      "year": "2024",
+      "file": "2024/autumns-arbor-aurora.png"
+    },
+    {
+      "name": "Autumn Crown",
+      "year": "2024",
+      "file": "2024/autumn-crown.png"
+    },
+    {
+      "name": "Faces of the Moon",
+      "year": "2024",
+      "file": "2024/faces-of-the-moon.png"
+    },
+    {
+      "name": "Fall Foliage Bundle",
+      "year": "2023",
+      "file": "2023/fall-foliage-bundle.png"
+    },
+    {
+      "name": "Scarlet Foliage Bundle",
+      "year": "2024",
+      "file": "2024/scarlet-foliage-bundle.png"
+    },
+    {
+      "name": "Woodland Foliage Bundle",
+      "year": "2024",
+      "file": "2024/woodland-foliage-bundle.png"
+    },
+    {
+      "name": "Fox Hat",
+      "year": "2023",
+      "file": "2023/fox-hat.png"
+    },
+    {
+      "name": "Chestnut Fox Hat",
+      "year": "2024",
+      "file": "2024/chestnut-fox-hat.png"
+    },
+    {
+      "name": "Snow Fox Hat",
+      "year": "2024",
+      "file": "2024/snow-fox-hat.png"
+    },
+    {
+      "name": "Etched in Ink Bundle",
+      "year": "2024",
+      "file": "2024/etched-in-ink-bundle.png"
+    },
+    {
+      "name": "Straw and Steel Bundle",
+      "year": "2024",
+      "file": "2024/straw-and-steel-bundle.png"
+    },
+    {
+      "name": "Kabuto",
+      "year": "2024",
+      "file": "2024/kabuto.png"
+    },
+    {
+      "name": "Oni Mask",
+      "year": "2024",
+      "file": "2024/oni-mask.png"
+    },
+    {
+      "name": "Sakura Warrior",
+      "year": "2024",
+      "file": "2024/sakura-warrior.png"
+    },
+    {
+      "name": "Shuriken's Mark",
+      "year": "2024",
+      "file": "2024/shurikens-mark.png"
+    },
+    {
+      "name": "Yoru Bundle",
+      "year": "2024",
+      "file": "2024/yoru-bundle.png"
+    },
+    {
+      "name": "ACE Bundle",
+      "year": "2024",
+      "file": "2024/ace-bundle.png"
+    },
+    {
+      "name": "Viper Poison Cloud",
+      "year": "2024",
+      "file": "2024/viper-poison-cloud.png"
+    },
+    {
+      "name": "Reyna's Leer",
+      "year": "2024",
+      "file": "2024/reynas-leer.png"
+    },
+    {
+      "name": "A Hint of Clove",
+      "year": "2024",
+      "file": "2024/a-hint-of-clove.png"
+    },
+    {
+      "name": "Omen's Cowl",
+      "year": "2024",
+      "file": "2024/omens-cowl.png"
+    },
+    {
+      "name": "Cypher Neural Theft",
+      "year": "2024",
+      "file": "2024/cypher-neural-theft.png"
+    },
+    {
+      "name": "Blade Storm",
+      "year": "2024",
+      "file": "2024/blade-storm.png"
+    },
+    {
+      "name": "Spirit Embers Bundle",
+      "year": "2024",
+      "file": "2024/spirit-embers-bundle.png"
+    },
+    {
+      "name": "Arcanist Bundle",
+      "year": "2024",
+      "file": "2024/arcanist-bundle.png"
+    },
+    {
+      "name": "Midnight Sorceress",
+      "year": "2024",
+      "file": "2024/midnight-sorceress.png"
+    },
+    {
+      "name": "Malefic Crown",
+      "year": "2024",
+      "file": "2024/malefic-crown.png"
+    },
+    {
+      "name": "Death's Edge",
+      "year": "2024",
+      "file": "2024/deaths-edge.png"
+    },
+    {
+      "name": "Eldritch Ring",
+      "year": "2024",
+      "file": "2024/eldritch-ring.png"
+    },
+    {
+      "name": "Stargazing Bundle",
+      "year": "2024",
+      "file": "2024/stargazing-bundle.png"
+    },
+    {
+      "name": "Black Hole",
+      "year": "2024",
+      "file": "2024/black-hole.png"
+    },
+    {
+      "name": "Stardust",
+      "year": "2024",
+      "file": "2024/stardust.png"
+    },
+    {
+      "name": "Solar Orbit",
+      "year": "2024",
+      "file": "2024/solar-orbit.png"
+    },
+    {
+      "name": "Astronaut Helmet",
+      "year": "2024",
+      "file": "2024/astronaut-helmet.png"
+    },
+    {
+      "name": "UFO",
+      "year": "2024",
+      "file": "2024/ufo.png"
+    },
+    {
+      "name": "Cozy Plant Vibes Bundle",
+      "year": "2024",
+      "file": "2024/cozy-plant-vibes-bundle.png"
+    },
+    {
+      "name": "Chromawave",
+      "year": "2024",
+      "file": "2024/chromawave.png"
+    },
+    {
+      "name": "Cozy Cat",
+      "year": "2024",
+      "file": "2024/cozy-cat.png"
+    },
+    {
+      "name": "Rainy Mood",
+      "year": "2024",
+      "file": "2024/rainy-mood.png"
+    },
+    {
+      "name": "Cozy Headphones",
+      "year": "2024",
+      "file": "2024/cozy-headphones.png"
+    },
+    {
+      "name": "Doodling",
+      "year": "2024",
+      "file": "2024/doodling.png"
+    },
+    {
+      "name": "Am I Getting Hacked? Bundle",
+      "year": "2024",
+      "file": "2024/am-i-getting-hacked-bundle.png"
+    },
+    {
+      "name": "Cybernetic",
+      "year": "2024",
+      "file": "2024/cybernetic.png"
+    },
+    {
+      "name": "Digital Sunrise",
+      "year": "2024",
+      "file": "2024/digital-sunrise.png"
+    },
+    {
+      "name": "Implant",
+      "year": "2024",
+      "file": "2024/implant.png"
+    },
+    {
+      "name": "Elemental Bundle",
+      "year": "2024",
+      "file": "2024/elemental-bundle.png"
+    },
+    {
+      "name": "Fire",
+      "year": "2024",
+      "file": "2024/fire.png"
+    },
+    {
+      "name": "Water",
+      "year": "2024",
+      "file": "2024/water.png"
+    },
+    {
+      "name": "Air",
+      "year": "2024",
+      "file": "2024/air.png"
+    },
+    {
+      "name": "Earth",
+      "year": "2024",
+      "file": "2024/earth.png"
+    },
+    {
+      "name": "Lightning",
+      "year": "2024",
+      "file": "2024/lightning.png"
+    },
+    {
+      "name": "Pirate Captain Bundle",
+      "year": "2024",
+      "file": "2024/pirate-captain-bundle.png"
+    },
+    {
+      "name": "Scallywag",
+      "year": "2024",
+      "file": "2024/scallywag.png"
+    },
+    {
+      "name": "Good Ol' Pepper",
+      "year": "2024",
+      "file": "2024/good-ol-pepper.png"
+    },
+    {
+      "name": "Crossbones",
+      "year": "2024",
+      "file": "2024/crossbones.png"
+    },
+    {
+      "name": "Cannon Fire",
+      "year": "2024",
+      "file": "2024/cannon-fire.png"
+    },
+    {
+      "name": "Helmsman",
+      "year": "2024",
+      "file": "2024/helmsman.png"
+    },
+    {
+      "name": "Star Collector Bundle",
+      "year": "2024",
+      "file": "2024/star-collector-bundle.png"
+    },
+    {
+      "name": "Joystick",
+      "year": "2024",
+      "file": "2024/joystick.png"
+    },
+    {
+      "name": "Clyde Invaders",
+      "year": "2024",
+      "file": "2024/clyde-invaders.png"
+    },
+    {
+      "name": "Hot Shot",
+      "year": "2024",
+      "file": "2024/hot-shot.png"
+    },
+    {
+      "name": "Mallow Jump",
+      "year": "2024",
+      "file": "2024/mallow-jump.png"
+    },
+    {
+      "name": "Slither 'n Snack",
+      "year": "2024",
+      "file": "2024/slither-n-snack.png"
+    },
+    {
+      "name": "The Tune of Spring Bundle",
+      "year": "2024",
+      "file": "2024/the-tune-of-spring-bundle.png"
+    },
+    {
+      "name": "Honeyblossom",
+      "year": "2024",
+      "file": "2024/honeyblossom.png"
+    },
+    {
+      "name": "Dandelion Duo",
+      "year": "2024",
+      "file": "2024/dandelion-duo.png"
+    },
+    {
+      "name": "Hugh the Rainbow",
+      "year": "2024",
+      "file": "2024/hugh-the-rainbow.png"
+    },
+    {
+      "name": "Strawberry Vine",
+      "year": "2024",
+      "file": "2024/strawberry-vine.png"
+    },
+    {
+      "name": "The Petal Pack",
+      "year": "2024",
+      "file": "2024/the-petal-pack.png"
+    },
+    {
+      "name": "In My Feels Bundle",
+      "year": "2024",
+      "file": "2024/in-my-feels-bundle.png"
+    },
+    {
+      "name": "Feelin' Awe",
+      "year": "2024",
+      "file": "2024/feelin-awe.png"
+    },
+    {
+      "name": "Feelin' Panic",
+      "year": "2024",
+      "file": "2024/feelin-panic.png"
+    },
+    {
+      "name": "Feelin' Nervous",
+      "year": "2024",
+      "file": "2024/feelin-nervous.png"
+    },
+    {
+      "name": "DISXCORE Headset",
+      "year": "2023",
+      "file": "2023/disxcore-headset.png"
+    },
+    {
+      "name": "Futuristic UI",
+      "year": "2023",
+      "file": "2023/futuristic-ui.png"
+    },
+    {
+      "name": "Smoke",
+      "year": "2023",
+      "file": "2023/smoke.png"
+    }
+  ]
+}
