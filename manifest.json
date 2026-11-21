@@ -1,6 +1,120 @@
 {
   "decorations": [
     {
+      "name": "Hoshimi Miyabi Bundle",
+      "year": "2026",
+      "category": "Zenless Zone Zero",
+      "file": "2026/hoshimi-miyabi-bundle.png"
+    },
+    {
+      "name": "Ellen Joe Bundle",
+      "year": "2026",
+      "category": "Zenless Zone Zero",
+      "file": "2026/ellen-joe-bundle.png"
+    },
+    {
+      "name": "Billy Kid Bundle",
+      "year": "2026",
+      "category": "Zenless Zone Zero",
+      "file": "2026/billy-kid-bundle.png"
+    },
+    {
+      "name": "Burnice White",
+      "year": "2026",
+      "category": "Zenless Zone Zero",
+      "file": "2026/burnice-white.png"
+    },
+    {
+      "name": "Eous",
+      "year": "2026",
+      "category": "Zenless Zone Zero",
+      "file": "2026/eous.png"
+    },
+    {
+      "name": "Deadpool",
+      "year": "2026",
+      "category": "Deadpool/Wolverine",
+      "file": "2026/deadpool.png"
+    },
+    {
+      "name": "Wolverine",
+      "year": "2026",
+      "category": "Deadpool/Wolverine",
+      "file": "2026/wolverine.png"
+    },
+    {
+      "name": "Bloodweb Bundle",
+      "year": "2026",
+      "category": "Dead by Daylight",
+      "file": "2026/bloodweb-bundle.png"
+    },
+    {
+      "name": "The Entity",
+      "year": "2026",
+      "category": "Dead by Daylight",
+      "file": "2026/the-entity.png"
+    },
+    {
+      "name": "Dark Moon (Base)",
+      "year": "2026",
+      "category": "Dead by Daylight",
+      "file": "2026/dark-moon-base.png"
+    },
+    {
+      "name": "Dark Moon (Blood Moon)",
+      "year": "2026",
+      "category": "Dead by Daylight",
+      "file": "2026/dark-moon-blood-moon.png"
+    },
+    {
+      "name": "Void Pumpkins",
+      "year": "2026",
+      "category": "Dead by Daylight",
+      "file": "2026/void-pumpkins.png"
+    },
+    {
+      "name": "Ofrenda",
+      "year": "2026",
+      "category": "Día de Muertos",
+      "file": "2026/ofrenda.png"
+    },
+    {
+      "name": "Jack Skellington Bundle",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/jack-skellington-bundle.png"
+    },
+    {
+      "name": "Oogie Boogie Bundle",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/oogie-boogie-bundle.png"
+    },
+    {
+      "name": "Jack Skellington (Bones)",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/jack-skellington-bones.png"
+    },
+    {
+      "name": "Sally's Potion",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/sallys-potion.png"
+    },
+    {
+      "name": "Zero",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/zero.png"
+    },
+    {
+      "name": "Oogie Boogie (Bats)",
+      "year": "2026",
+      "category": "The Nightmare Before Christmas",
+      "file": "2026/oogie-boogie-bats.png"
+    },
+    {
       "name": "Alt Raccoon",
       "year": "2026",
       "category": "All Ears",
@@ -1541,36 +1655,6 @@
       "year": "2025",
       "category": "TRON",
       "file": "2025/super-recognizer.png"
-    },
-    {
-      "name": "Black Ops 7 Bundle",
-      "year": "2025",
-      "category": "Call of Duty: Black Ops 7",
-      "file": "2025/black-ops-7-bundle.png"
-    },
-    {
-      "name": "Hallucination Bundle",
-      "year": "2025",
-      "category": "Call of Duty: Black Ops 7",
-      "file": "2025/hallucination-bundle.png"
-    },
-    {
-      "name": "Cymbal Monkey",
-      "year": "2025",
-      "category": "Call of Duty: Black Ops 7",
-      "file": "2025/cymbal-monkey.png"
-    },
-    {
-      "name": "COD Squad Up",
-      "year": "2025",
-      "category": "Call of Duty: Black Ops 7",
-      "file": "2025/cod-squad-up.png"
-    },
-    {
-      "name": "Final Circle",
-      "year": "2025",
-      "category": "Call of Duty: Black Ops 7",
-      "file": "2025/final-circle.png"
     },
     {
       "name": "Yuji Itadori Bundle",
